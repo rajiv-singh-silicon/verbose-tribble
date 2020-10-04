@@ -30,7 +30,7 @@ int main()
 {
 
 int n;
-cout<<"Enter the size of character array\n";
+cout<<"Enter the Size of Character array\n";
 cin>>n;
 cout<<"Enter the character array\n";
 char *c=new char[n+1];
