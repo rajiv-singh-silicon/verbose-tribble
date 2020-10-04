@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int n;
-cout<<"Enter the size of the array\n";
+cout<<"Enter the Array::\n";
 cin>>n;
 int *arr=new int[n+1];
 for(int i=0;i<n;i++)
